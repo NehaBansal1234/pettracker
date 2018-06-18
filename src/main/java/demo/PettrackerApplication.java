@@ -9,7 +9,6 @@ import org.springframework.context.annotation.ComponentScan;
 public class PettrackerApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Hello Main");
 		SpringApplication.run(PettrackerApplication.class, args);
 	}
 }
